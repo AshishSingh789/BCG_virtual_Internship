@@ -1,5 +1,5 @@
 # BCG X Virtual Internship - Data Science Project
-This repository contains the work I completed during the BCG X Virtual Internship (June 2024 - September 2024) offered through Forage. The project focused on analyzing customer churn for a company named PowerCo, utilizing the full data science process from business understanding to model evaluation.
+This repository contains the work I completed during the BCG X Virtual Internship (June 2024 - September 2024) offered through Forage. The project focused on analyzing customer churn for Powerco, utilizing the full data science process from business understanding to model evaluation.
 
 # Project Overview
 As part of this virtual internship, I worked on various tasks that mirror the typical responsibilities of a Data Scientist at BCG X. These tasks were designed to give hands-on experience in solving business problems using data-driven methodologies.
@@ -14,7 +14,7 @@ Outlined the data requirements needed to investigate customer churn and provided
 # 2. Exploratory Data Analysis (EDA)
 Analyzed historical customer and pricing data, along with churn indicators.
 Explored data types, generated descriptive statistics, and visualized distributions to understand underlying patterns.
-Used Python (Jupyter notebook) to perform these analyses, focusing on key attributes affecting churn.
+Used Python (Jupyter Notebook) to perform these analyses, focusing on key attributes affecting churn.
 
 
 # 3. Feature Engineering & Modelling
@@ -32,16 +32,28 @@ Provided insights and recommendations on how PowerCo could reduce churn based on
 
 # Repository Structure
 bash
+
 Copy code
+
 ├── data/
+
 │   └── data_for_predictions.csv   # Final dataset for modeling (not uploaded here)
+
 ├── notebooks/
+
 │   ├── task1_business_understanding.ipynb
+
 │   ├── task2_exploratory_data_analysis.ipynb
+
 │   ├── task3_feature_engineering.ipynb
+
 │   └── task4_modeling_and_evaluation.ipynb
-├── README.md                      # Project README file
-└── .gitignore                     # Git ignore file for data and sensitive files
+
+├── README.md  
+# Project README file
+
+└── .gitignore  
+# Git ignores files for data and sensitive files
 
 
 # Technologies Used
@@ -51,6 +63,11 @@ Pandas, NumPy for data manipulation
 Matplotlib, Seaborn for data visualization
 Scikit-learn for machine learning (Random Forest)
 Conclusion
-Through this internship, I gained hands-on experience with real-world data science problems, from formulating business problems to building and evaluating predictive models. The work provided a comprehensive understanding of the key stages in the data science workflow, from EDA to feature engineering and modeling.
+This internship taught me hands-on experience with real-world data science problems, from formulating business problems to building and evaluating predictive models. The work provided a comprehensive understanding of the key stages in the data science workflow, from EDA to feature engineering and modeling.
 
-For more details on the individual tasks, check out the Jupyter notebooks in the repository.
+Check out the Jupyter notebooks in the repository for more details on the individual tasks.
+
+
+[BCG X.pdf](https://github.com/user-attachments/files/17299560/BCG.X.pdf)
+
+
