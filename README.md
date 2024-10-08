@@ -68,6 +68,13 @@ This internship taught me hands-on experience with real-world data science probl
 Check out the Jupyter notebooks in the repository for more details on the individual tasks.
 
 
-[BCG X.pdf](https://github.com/user-attachments/files/17299560/BCG.X.pdf)
+
+
+
+
+![Screenshot 2024-10-09 031220](https://github.com/user-attachments/assets/6988d10c-8ab0-4a7a-a2a2-b89b4662084d)
+
+
+
 
 
