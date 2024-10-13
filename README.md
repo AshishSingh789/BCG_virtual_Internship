@@ -72,7 +72,6 @@ Check out the Jupyter notebooks in the repository for more details on the indivi
 
 
 
-![Screenshot 2024-10-09 031220](https://github.com/user-attachments/assets/6988d10c-8ab0-4a7a-a2a2-b89b4662084d)
 
 
 
