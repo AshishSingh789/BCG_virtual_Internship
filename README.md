@@ -69,6 +69,8 @@ Check out the Jupyter notebooks in the repository for more details on the indivi
 
 
 
+[BCG X.pdf](https://github.com/user-attachments/files/18366583/BCG.X.pdf)
+
 
 
 
